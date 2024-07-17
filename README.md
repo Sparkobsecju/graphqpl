@@ -9,6 +9,8 @@ This repo contains:
 ![Screenshot 2024-07-11 at 11 20 30](https://github.com/amigoscode/spring-boot-graphql/assets/154710368/0bc4b647-92dd-43af-98fb-fdafa1e05913)
 
 
+The following is what was implemented after the one-hour course
+
 ![截圖 2024-07-17 晚上7 20 50](https://github.com/user-attachments/assets/b00d3273-b9f9-4449-b686-ad9de993c891)
 
 
