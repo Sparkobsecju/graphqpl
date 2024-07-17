@@ -1,5 +1,3 @@
-![截圖 2024-07-07 下午3 55 04](https://github.com/user-attachments/assets/3c13eada-58d6-42db-9c93-ee97a3604fe7)# Spring Boot and GraphQL
-
 Enrol here: https://amigoscode.com/courses/spring-boot-graphql
 
 This repo contains:
